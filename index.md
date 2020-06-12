@@ -1,9 +1,9 @@
-## Welcome to hsupengbo.github.io
+# Welcome to hsupengbo.github.io
 
-### My works
- + CN
+## My works
+### CN
       + [Socket双机通信作业](./CN/SocketByC++/README.md)
- + MFC
+### MFC
   
    | 程序用途 | 下载  |
    |---|---| 
@@ -12,4 +12,4 @@
    | 高中算法演示 | [download](https://hsupengbo.github.io/MFCs/QuickPow.exe) | 
 
 
-go to [Blog of xupengbo](https://blog.xupengbo.online)
+## go to [Blog of xupengbo](https://blog.xupengbo.online)
