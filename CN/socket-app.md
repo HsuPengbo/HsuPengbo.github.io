@@ -1,4 +1,8 @@
 # socket 双机通信                           [返回主页](../index.md)
+
+[客户端](./Applications[32位]/Client.exe)
+[服务端](./Applications[32位]/Server.exe)
+
 ## 任务描述
 利用 Socket 来实现双机通信，理解 TCP 状态机图
 实验内容：使用 Socket 编程，采用其中的 TCP 面向连接方式，实现计算机数
