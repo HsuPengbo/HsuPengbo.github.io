@@ -2,8 +2,8 @@
 
 ## Demo下载
 
-[客户端](.Client.exe)
-[服务端](./Server.exe)
+[客户端](https://hsupengbo.github.io/CN/Client.exe)
+[服务端](https://hsupengbo.github.io/CN/Server.exe)
 
 ## 任务描述
 利用 Socket 来实现双机通信，理解 TCP 状态机图
