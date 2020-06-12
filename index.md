@@ -2,7 +2,7 @@
 
 ## My works
 ### CN
-      + [Socket双机通信作业](./CN/SocketByC++/README.md)
+      + [Socket双机通信作业](./CN/socket-app.md)
 ### MFC
   
    | 程序用途 | 下载  |
