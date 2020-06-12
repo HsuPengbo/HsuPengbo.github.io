@@ -1,4 +1,4 @@
-# Welcome to hsupengbo.github.io
+# hsupengbo.github.io
 
 ## My works
 
